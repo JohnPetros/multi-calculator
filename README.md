@@ -104,7 +104,7 @@ $ npx expo start
 
 ## 🎨 Layout:
 
-No link abaixo você encontra o layout do desafio original que peguei como inspiração para o projeto. Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
+No link abaixo você encontra o layout do design original que peguei como inspiração para o projeto. Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
 - [Layout](<https://www.figma.com/file/ech15zxeL8HT9OpUQdJkcG/Calculator-App-(Community)?type=design&node-id=1-316&t=0JNYXNWgSjq78s2R-0>)
 
