@@ -27,21 +27,21 @@ Projeto mobile que consistem em uma calculadora convencional e um conversor para
 <table align="center">
   <tr>
     <td width="250">
-    <span>Calculadora <br/></span>
+    <span>Calculadora </span><br/>
     <img alt="GIF demontrando o conversor de moeada" src=".github/multi-calculator.gif" />
     </td>
     <td width="250">
-      <span>Conversor de moeda <br/></span>
+      <span>Conversor de moeda </span><br/>
         <img alt="Imagem demontrando o conversor de moeada" src=".github/currency-converter.jpeg" />
     </td>
   </tr>
    <tr>
     <td width="250">
-      <span>Conversor de comprimento <br/></span>
+      <span>Conversor de comprimento </span><br/>
         <img alt="Imagem demontrando o conversor de comprimento" src=".github/length-converter.jpeg" />
     </td>
     <td width="250">
-      <span>Tela Home <br/></span>
+      <span>Tela Home </span><br/>
         <img alt="Imagem demontrando a tela principal" src=".github/home.jpeg" />
     </td>
   </tr>
