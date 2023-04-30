@@ -20,7 +20,7 @@
 
 ## 💻 Projeto
 
-Projeto mobile que consistem em uma calculadora convencional e um conversor para várias unidades. Esse projeto foi desenvolvido como tarefa de casa para a disciplina de programação mobile na Etec São José dos Campos.
+Projeto mobile que consiste em uma calculadora convencional e um conversor para várias unidades. Esse projeto foi desenvolvido como tarefa de casa para a disciplina de programação mobile na Etec São José dos Campos.
 
 ### 📷 Demonstração
 
