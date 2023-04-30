@@ -6,16 +6,16 @@
    <a href="https://github.com/JohnPetros">
       <img alt="Made by JohnPetros" src="https://img.shields.io/badge/made%20by-JohnPetros-blueviolet">
    </a>
-   <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/JohnPetros/rocketblog">
-   <a href="https://github.com/JohnPetros/rocketblog/commits/main">
-      <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/JohnPetros/rocketblog">
+   <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/JohnPetros/multi-calculator">
+   <a href="https://github.com/JohnPetros/multi-calculator/commits/main">
+      <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/JohnPetros/multi-calculator">
    </a>
   </a>
    </a>
-   <a href="https://github.com/JohnPetros/rocketblog/blob/main/LICENSE.md">
-      <img alt="GitHub License" src="https://img.shields.io/github/license/JohnPetros/rocketblog">
+   <a href="https://github.com/JohnPetros/multi-calculator/blob/main/LICENSE.md">
+      <img alt="GitHub License" src="https://img.shields.io/github/license/JohnPetros/multi-calculator">
    </a>
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/JohnPetros/rocketblog?style=social">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/JohnPetros/multi-calculator?style=social">
 </div>
 
 ## 💻 Projeto
@@ -26,25 +26,25 @@ Projeto mobile que consistem em uma calculadora convencional e um conversor para
 
 <table align="center">
   <tr>
-    <td align="center" width="700">
+    <td align="center" width="350">
     <span>Calculadora <br/></span>
     <img alt="GIF demontrando o conversor de moeada" src=".github/multi-calculator.gif" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="700">
+    <td align="center" width="350">
       <span>Conversor de moeda <br/></span>
         <img alt="Imagem demontrando o conversor de moeada" src=".github/currency-converter.jpeg" />
     </td>
   </tr>
    <tr>
-    <td align="center" width="700">
+    <td align="center" width="350">
       <span>Conversor de comprimento <br/></span>
         <img alt="Imagem demontrando o conversor de comprimento" src=".github/length-converter.jpeg" />
     </td>
   </tr>
    <tr>
-    <td align="center" width="700">
+    <td align="center" width="350">
       <span>Tela Home <br/></span>
         <img alt="Imagem demontrando a tela principal" src=".github/home.jpeg" />
     </td>
