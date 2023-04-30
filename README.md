@@ -1,11 +1,125 @@
-# Sample Snack app
+<h1 align="center">
+  Multi Calculator 🔢
+</h1>
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+<div align="center">
+   <a href="https://github.com/JohnPetros">
+      <img alt="Made by JohnPetros" src="https://img.shields.io/badge/made%20by-JohnPetros-blueviolet">
+   </a>
+   <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/JohnPetros/rocketblog">
+   <a href="https://github.com/JohnPetros/rocketblog/commits/main">
+      <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/JohnPetros/rocketblog">
+   </a>
+  </a>
+   </a>
+   <a href="https://github.com/JohnPetros/rocketblog/blob/main/LICENSE.md">
+      <img alt="GitHub License" src="https://img.shields.io/github/license/JohnPetros/rocketblog">
+   </a>
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/JohnPetros/rocketblog?style=social">
+</div>
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+## 💻 Projeto
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+Projeto mobile que consistem em uma calculadora convencional e um conversor para várias unidades. Esse projeto foi desenvolvido como tarefa de casa para a disciplina de programação mobile na Etec São José dos Campos.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
+### 📷 Demonstração
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+<table align="center">
+  <tr>
+    <td align="center" width="700">
+    <span>Calculadora <br/></span>
+    <img alt="GIF demontrando o conversor de moeada" src=".github/multi-calculator.gif" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="700">
+      <span>Conversor de moeda <br/></span>
+        <img alt="Imagem demontrando o conversor de moeada" src=".github/currency-converter.jpeg" />
+    </td>
+  </tr>
+   <tr>
+    <td align="center" width="700">
+      <span>Conversor de comprimento <br/></span>
+        <img alt="Imagem demontrando o conversor de comprimento" src=".github/length-converter.jpeg" />
+    </td>
+  </tr>
+   <tr>
+    <td align="center" width="700">
+      <span>Tela Home <br/></span>
+        <img alt="Imagem demontrando a tela principal" src=".github/home.jpeg" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## ✨ Funcionalidades
+
+- [x] Exibição de resultado de cálculo em tempo real (enquanto o usuário digita)
+- [x] Cálculo em uma uníca linha, seja adição, subtração, multiplicação, divisão e porcentagem
+- [x] Conversor de unidades para diferentes medidas (moeda, comprimento, área, massa, volume, temperatura, velocidade, temperatura, tempo, pressão, energia, ângulo e dados digitais)
+- [x] Seleção e alteração de qualquer unidade de uma determinada medida
+- [x] Navegação entre calculadora e conversores de unidade
+
+---
+
+## 🛠️ Tecnologias 
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+✔️ **[React Native](https://expo.io/)**
+
+✔️ **[Expo](https://expo.io/)**
+
+---
+
+## 🚀 Como rodar este projeto 
+
+### 📝 Pré-requesitos
+
+Antes de baixar o projeto você vai precisar ter instalado na sua máquina as seguintes ferramentas:
+
+- [Git](https://git-scm.com)
+- [NodeJS](https://nodejs.org/en/)
+- [Yarn](https://yarnpkg.com/) ou [NPM](https://www.npmjs.com/)
+
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)<br>
+
+> Você poder executar o App no seu celular ou em um emulador de celular da sua preferência usando Expo, ou ainda pela plataforma web do Expo acessando este link: [expo.dev](https://snack.expo.dev/@joaopcarvalho/multi-calculator?platform=android).
+
+#### 📟 Rodando o Mobile
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/JohnPetros/multi-calculator.git
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd multi-calculator
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npx expo start
+
+```
+
+---
+
+## 🎨 Layout:
+
+No link abaixo você encontra o layout do desafio original que peguei como inspiração para o projeto. Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
+
+- [Layout](<https://www.figma.com/file/ech15zxeL8HT9OpUQdJkcG/Calculator-App-(Community)?type=design&node-id=1-316&t=0JNYXNWgSjq78s2R-0>)
+
+---
+
+## 🗒️ Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+<p align="center">
+   Feito com 💜 by John Petros 👋🏻
+</p>
